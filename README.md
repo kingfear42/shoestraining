@@ -1,0 +1,1 @@
+Ayakkabı tabanını maskeler
