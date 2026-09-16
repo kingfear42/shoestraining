@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['0']
+
+roboflow:
+  workspace: abdullahkerem-korkmaz0-gmail-com
+  project: shoestraining
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/abdullahkerem-korkmaz0-gmail-com/shoestraining/dataset/1
